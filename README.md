@@ -104,7 +104,7 @@ Step 10). Eclipse will create the NewTest class:
 
 Step 11) Add another package by right clicking on the name of the fisrt package "Assessment2";
 
-Step 12) add your excel file that contain data by Right-click on the new package and select copy the click ok. Eclipse will create the excel file which which you will use to parameterize:
+Step 12) add your excel file that contain data by Right-click on the new package and select paste then click ok. Eclipse will create the excel file which which you will use to parameterize:
 
 
 Update the project and make sure that file appears in the tree Package Explorer (right click on the project - Refresh).
