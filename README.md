@@ -1,6 +1,7 @@
 # Task2_ABSA_Assessment
-Maven & Jenkins with Selenium: Complete Tutorial
-http://www.guru99.com/maven-jenkins-with-selenium-complete-tutorial.html
+Maven & testng with Selenium:
+
+
 
 Step1) In Eclipse IDE, select Help | Install New Software from Eclipse Main Menu.
 
@@ -63,7 +64,7 @@ Step 8).Add the Selenium and TestNG dependencies to pom.xml in the node:
             <scope>test</scope>                                     
        </dependency> 
 
-<dependency>
+                  <dependency>
   		<groupId>org.apache.maven.plugins</groupId>
   		<artifactId>maven-compiler-plugin</artifactId>
   		<version>3.8.0</version>
